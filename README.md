@@ -66,7 +66,7 @@ Please check the [Releases](../../releases) page for version-specific details.
 | **Spelunkr**<br>[pedr](https://github.com/pedr/spelunkrtv-tizen-app) | Unofficial spelunkr.tv client: 24/7 synchronized channels of Internet Archive video, driven by the remote, with a fix that lets Samsung's player seek in archive.org videos. | `v1.1.0` |
 | **Streamix TV**<br>[gabrielmaialva33](https://github.com/gabrielmaialva33/streamix-tv) | Cinematic 10-foot TV client for the self-hosted Streamix platform. | `v1.0.027` |
 | **Stremio (Tizen 4)**<br>[Apps2Samsung](https://github.com/Apps2Samsung/tizen-community-packages) | Stremio media center packaged for Tizen 4.0 devices. | `latest` |
-| **StremioK**<br>[Kepler75](https://github.com/Kepler75/StremioK) | From-scratch Stremio-addon streaming client for Samsung Tizen 3.0+ TVs: catalogs, sources and subtitles from the addons you add, Trakt sync, IPTV from your M3U playlists, YouTube and USB playback. | `v2.3.4` |
+| **StremioK**<br>[Kepler75](https://github.com/Kepler75/StremioK) | From-scratch Stremio-addon streaming client for Samsung Tizen 3.0+ TVs: catalogs, sources and subtitles from the addons you add, Trakt sync, IPTV from your M3U playlists, YouTube and USB playback. | `v2.3.5` |
 | **Telegram Videos**<br>[titlog](https://github.com/titlog/telegram-tizen) | Plays the videos in your Telegram groups and channels on Samsung Tizen 6.0+ TVs: QR sign-in, several accounts, MP4 and MKV streamed while downloading, audio tracks and subtitles, search across chats. | `v1.2.6` |
 | **TizenTube Old Tizen**<br>[numbereleven-a](https://github.com/numbereleven-a/TizenTube-old-tizen) | Standalone YouTube with SponsorBlock for older Samsung TVs (Tizen 2.4 and 3.0). | `v2.5.0` |
 | **TorrStream**<br>[cash94](https://github.com/cash94/TorrStream-Tizen) | Movies and TV shows through TorrServer, with TMDB catalogs and audio and subtitle track names read on the TV. | `v1.1.4` |
@@ -111,7 +111,7 @@ Please check the [Releases](../../releases) page for version-specific details.
 | **Sonance3**<br>[MrSimmo](https://github.com/MrSimmo/sonance3) | A music player for Samsung Tizen TVs, built to stream from your self-hosted Jellyfin, Navidrome or Subsonic-compatible server. | `v3.15` |
 | **SubTizen**<br>[therosaer](https://github.com/therosaer/SubTizen) | Subsonic music client for Navidrome, Airsonic, Gonic and Subsonic: Apple Music-style UI, server playlists, search and synced lyrics. | `v1.0.1` |
 | **tacplayer**<br>[sfsdffesfsfg-cloud](https://github.com/sfsdffesfsfg-cloud/tacplayer) | Custom Jellyfin Tizen client with cinematic red UI for Samsung TV | `v0.1.0` |
-| **Tessel**<br>[PatrickSt1991](https://github.com/PatrickSt1991/tessel-tizen-tv) | Media player for Samsung TVs: SMB shares, USB drives, network streams and subtitles, with an optional transcode server (formerly VLC-Tizen-tv). | `v1.35.0-20261105-0948` |
+| **Tessel**<br>[PatrickSt1991](https://github.com/PatrickSt1991/tessel-tizen-tv) | Media player for Samsung TVs: SMB shares, USB drives, network streams and subtitles, with an optional transcode server (formerly VLC-Tizen-tv). | `v1.35.1-20261111-1743` |
 | **TubeArchivist TV**<br>[raykholo](https://github.com/raykholo/tubearchivist-tv) | 10-foot client for your self-hosted TubeArchivist: pair from your phone, never type on the remote. | `3cb035f` |
 | **TVideoPlayer**<br>[TizenTVWebApp](https://github.com/TizenTVWebApp/TVideoPlayer) | Tizen TV HTML video player based on videojs. | `latest` |
 | **VeloVistrix**<br>[zephy-lee](https://github.com/zephy-lee/velovistrix-tizen) | Read-only PhotoPrism viewer for Samsung Tizen 5.0+ TVs, driven by the remote: albums, places, calendar, labels and folders from your own server, with slideshow. | `d136678` |
@@ -194,12 +194,12 @@ Please check the [Releases](../../releases) page for version-specific details.
 
 | 🧩 Application | 📝 Description | ⚙️ Version |
 |----------------|----------------|------------|
-| **APL Launcher**<br>[Knikt](https://github.com/Knikt/APL-Launcher-for-TizenOS) | Apple-TV-style home screen: Top Shelf, glass dock, Control Center over any app, Settings and Sources. | `v1.1.3` |
+| **APL Launcher**<br>[Knikt](https://github.com/Knikt/APL-Launcher-for-TizenOS) | Apple-TV-style home screen: Top Shelf, glass dock, Control Center over any app, Settings and Sources. | `v1.1.4` |
 | **App Manager**<br>[no-cover](https://github.com/no-cover/appmanager) | Alternative launcher for Samsung Tizen TVs: lists installed third-party and sideloaded apps in one grid to launch them, or hide them from Smart Hub without uninstalling. | `1.0.3` |
 | **HyperTizen**<br>[reisxd](https://github.com/reisxd/HyperTizen) | Hyperion / HyperHDR ambient-light capturer for Samsung Tizen TV (native .tpk; requires TizenBrew for the UI). | `v1.0.0` |
 | **inet-speed-old-tizen**<br>[numbereleven-a](https://github.com/numbereleven-a/inet-speed-old-tizen) | Internet diagnostics for Samsung Tizen 2.4+ TVs: response times of popular sites and download speed from Cloudflare, Fastly and HOSTKEY test CDNs, plus TV model, firmware and network info. | `v1.1.1` |
 | **iperf3 TV**<br>[DmitryMaksakov](https://github.com/DmitryMaksakov/samsung-tv-iperf3) | Measures your Samsung TV's network throughput to an iperf3 server, upload or download. | `d20ac9f` |
-| **MonoServer**<br>[cash94](https://github.com/cash94/MonoServer) | TorrServer rewritten in C# (MonoTorrent) that runs as a background service on the TV itself, including Tizen 5.5 where the official TorrServer cannot start. | `v1.0.35` |
+| **MonoServer**<br>[cash94](https://github.com/cash94/MonoServer) | TorrServer rewritten in C# (MonoTorrent) that runs as a background service on the TV itself, including Tizen 5.5 where the official TorrServer cannot start. | `v1.0.36` |
 | **Tailscale**<br>[PatrickSt1991](https://github.com/PatrickSt1991/tailscale-tizen) | Tailscale exit-node app for Samsung Tizen TV (experimental; advertises the TV as a tailnet exit node). | `tpk-f3a7b39` |
 | **Tizen Debug App**<br>[no-cover](https://github.com/no-cover/tizendebugapp) | Developer toolkit for troubleshooting apps and monitoring system state on real Samsung Tizen TV hardware. | `1.0.0` |
 | **Tizen OS Ambilight**<br>[exzos28](https://github.com/exzos28/tizen-os-ambilight) | DIY ambilight: reads the screen-edge colors from the TV's video processor and streams them to an ESP32 LED controller or HyperHDR; the launcher shows whether your TV supports capture. | `v1.2.1` |
@@ -225,7 +225,7 @@ Please check the [Releases](../../releases) page for version-specific details.
 | **Frame Dashboard**<br>[joseamijares](https://github.com/joseamijares/frame-dashboard) | Daily dashboard for the Samsung Frame TV: a public-domain painting beside your calendar, focus and tasks. | `8cc81fe` |
 | **Free My TV**<br>[simbasjungles](https://github.com/simbasjungles/free-my-tv) | Fast, ad-free home screen with your app shelf, weather, sunset-based day/night theme and a photo screensaver. | `v1.4.0` |
 | **Haven**<br>[natureglass](https://github.com/natureglass/haven-tizen-ha) | Home Assistant powered home screen: sensors, lights and scenes by room, weather, live cameras, a Jellyfin client and music from Home Assistant's media folder. | `18ffa3e` |
-| **Lobby**<br>[Lobby](https://github.com/CtznSniiips/Lobby) | Home screen for Samsung TVs with your Emby (or Jellyfin) server's Continue Watching, Live TV and teams, and Seerr's trending titles. | `2f279ea` |
+| **Lobby**<br>[Lobby](https://github.com/CtznSniiips/Lobby) | Home screen for Samsung TVs with your Emby (or Jellyfin) server's Continue Watching, Live TV and teams, and Seerr's trending titles. | `bf1e7f5` |
 | **Nhà Mình**<br>[meocong](https://github.com/meocong/prj-tv-samsung) | Apple TV-style home screen for Samsung Tizen TVs: your installed apps, a YouTube shelf, weather, a lunar calendar, news, an English word of the day read aloud, Bing wallpapers and a family photo screensaver. | `v1.4.0` |
 | **Sportlink Club Viewer**<br>[PatrickSt1991](https://github.com/PatrickSt1991/Sportlink.Club.Info.Viewer) | Solution for sports clubs to display match information in real time and in a clear, organized way on screens throughout the club! | `v1.1.0` |
 | **TizenTVAudioRecorder**<br>[TizenTVWebApp](https://github.com/TizenTVWebApp/TizenTVAudioRecorder) | HTML5 Audio Recorder (kalaoke App). | `latest` |
@@ -240,7 +240,7 @@ Please check the [Releases](../../releases) page for version-specific details.
 
 | 🧩 Application | 📝 Description | ⚙️ Version |
 |----------------|----------------|------------|
-| **StashZen**<br>[StashZen](https://github.com/Stashified/StashZen) | A Stash client for Samsung Tizen TVs. | `v0.44.1` |
+| **StashZen**<br>[StashZen](https://github.com/Stashified/StashZen) | A Stash client for Samsung Tizen TVs. | `v0.44.2` |
 
 </details>
 
